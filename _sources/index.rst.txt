@@ -10,6 +10,7 @@ Welcome to sphinxdoc-test's documentation!
    :maxdepth: 2
 
    includeme
+   helloworld
 
 Indices and tables
 ==================
